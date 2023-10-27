@@ -1,4 +1,4 @@
-// src/components/Chatbot.js
+
 import React, { useState } from "react";
 import { Select, Input, Button, notification, message } from "antd";
 
