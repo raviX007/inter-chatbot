@@ -56,22 +56,5 @@ To run this project locally, you need to have Node.js and npm (Node Package Mana
 5. **You will receive a success message for a valid submission and an error message for an empty query**.
 6. **View the chatbot's response or any other relevant functionality**.
 
-## Contributing
 
-We welcome contributions to improve this project. If you have any bug fixes, new features, or improvements to propose, please follow these steps:
 
-1. **Fork the repository on GitHub**.
-2. **Create a new branch with a descriptive name for your feature or bug fix**.
-3. **Make your changes and commit them with clear messages**.
-4. **Push your changes to your fork**.
-5. **Create a pull request to the main repository**.
-
-Please ensure that you follow our [Code of Conduct](CODE_OF_CONDUCT.md) and adhere to the project's coding standards.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to reach out to us for any questions or issues. Thank you for using and contributing to our chatbot web application!
